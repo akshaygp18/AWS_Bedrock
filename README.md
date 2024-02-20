@@ -3,7 +3,7 @@ AWS Bedrock Project
 
 ## STEPS -
 
-### STEP 01- Create a repository by using template repository
+### STEP 01- Create a environment
 
 ```bash
 conda create --prefix ./venv python=3.9 -y
